@@ -1,0 +1,45 @@
+# Angular specific
+.angular/cache/
+.angular/config.json
+
+# Compiled output
+/dist/
+/out-tsc/
+/build/
+/tmp/
+/temp/
+
+# Node modules
+/node_modules/
+
+# IDEs and editors
+/.idea/
+/.vscode/
+/*.sublime-workspace
+/*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Coverage directory used by tools like istanbul
+/coverage/
+
+# Misc
+.sass-cache/
+connect.lock
+coverage/
+libpeerconnection.log
+testem.log
+typings/
+tsconfig.tsbuildinfo
